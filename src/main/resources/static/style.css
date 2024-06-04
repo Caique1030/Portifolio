@@ -1,0 +1,42 @@
+/* Estilos personalizados */
+
+#header {
+    text-align: center;
+    padding-top: 100px; /* Ajuste conforme necessário */
+    background-color: #333; /* Cor de fundo do header */
+    color: #fff; /* Cor do texto */
+}
+
+#header h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+#header p {
+    font-size: 1.5rem;
+}
+
+/* Estilos para as seções */
+section {
+    padding: 50px 0;
+}
+
+/* Estilos para os títulos das seções */
+section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+/* Estilos para os textos das seções */
+section p {
+    font-size: 1.25rem;
+    line-height: 1.6;
+}
+
+/* Estilos para as imagens dos projetos */
+.img-fluid {
+    width: 100%;
+    height: auto;
+    border-radius: 5px; /* Borda arredondada para as imagens */
+    margin-bottom: 20px;
+}
